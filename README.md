@@ -1,2 +1,4 @@
 # explaining_life_expectancy
-Statistical Learning Project to analyze the determinants of Life Expectancy across the world.
+In this project, developed for the course in Statistical Learning, I analyze the determinants of life expectancy across the world using some Supervised and Unsupervised Learning techniques.
+
+This repository contains the R code as well as the report of the analysis.
